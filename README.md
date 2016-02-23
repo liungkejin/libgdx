@@ -47,10 +47,6 @@ libGDX 授权于 [Apache 2.0 许可证](http://www.apache.org/licenses/LICENSE-2
 这意味着你可以免费使用它, 在你的商业或者非商业项目中不会有任何的附加条件. 
 如果你使用 libGDX 发布了一个款应用或者游戏, 我们非常开心能获得荣誉(非强制性), 
 
-libGDX is licensed under the [Apache 2 License](http://www.apache.org/licenses/LICENSE-2.0.html), meaning you
-can use it free of charge, without strings attached in commercial and non-commercial projects. We love to
-get (non-mandatory) credit in case you release a game or app using libgdx!
-
 ### 赞助者
 很多乐于助人的第三方团队通过贡献代码, 免费许可, 测试设备等方式支持着 libGDX, 让我们祝福他们, 以下是他们的网站!
 
